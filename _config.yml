@@ -1,3 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Dr. Arthemis Paltois
 description: Dr. Arthemis Paltois covers topics related to Cybersecurity, CTFs, Cryptology and Mathematics.
+theme: jekyll-theme-minimal
